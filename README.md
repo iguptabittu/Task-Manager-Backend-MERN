@@ -105,26 +105,4 @@ task-manager/
 
 ---
 
-## 📸 Screenshots
 
-![screenshot](https://via.placeholder.com/600x300?text=Frontend+Preview)
-*Basic frontend UI*
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🙋‍♂️ Author
-
-Made with 💻 by [Your Name](https://github.com/your-username)
-
-```
-
----
-
-Would you like me to generate a GitHub repo with this structure for you, or help with deploying it online (e.g. Render for backend, GitHub Pages for frontend)?
-```
