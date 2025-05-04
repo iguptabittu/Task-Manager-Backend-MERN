@@ -1,5 +1,4 @@
 
-````markdown
 # 📝 Task Manager API & Frontend
 
 A simple full-stack task manager built with **Node.js, Express, MongoDB**, and a **vanilla HTML/CSS/JS frontend**. This project demonstrates basic CRUD operations and REST API integration.
@@ -37,7 +36,7 @@ A simple full-stack task manager built with **Node.js, Express, MongoDB**, and a
    ```bash
    git clone https://github.com/your-username/task-manager.git
    cd task-manager-backend
-````
+
 
 2. Install dependencies:
 
